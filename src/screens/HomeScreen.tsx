@@ -1,5 +1,5 @@
-import { useNavigation } from '@react-navigation/core';
 import React from 'react';
+import { useNavigation } from '@react-navigation/core';
 import { Button, StyleSheet, Text, View } from 'react-native';
 
 function HomeScreen() {
